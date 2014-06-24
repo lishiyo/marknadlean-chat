@@ -1,7 +1,7 @@
 <?php
 
-$username= "admincenLhPu";
-$dbPassword = "GAvrLSDDMsrM";
+$username= "adminazL12W4";
+$dbPassword = "5XAKnU3GF5LF";
 $database= "marknad";
 
 ?>
