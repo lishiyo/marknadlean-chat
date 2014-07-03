@@ -2,7 +2,6 @@
 function createTable($tableName){
 
   dbQuery("CREATE TABLE IF NOT EXISTS $tableName (`rId` int(11) NOT NULL AUTO_INCREMENT, `timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (`rId`)) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1");
-
   
 }
 
